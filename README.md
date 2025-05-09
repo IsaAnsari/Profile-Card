@@ -25,4 +25,4 @@ A modern, mobile-friendly profile card with interactive social buttons, built wi
 ## How to Use 🚀
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/responsive-profile-card.git
+   git clone https://github.com/IsaAnsari/Profile-Card.git
