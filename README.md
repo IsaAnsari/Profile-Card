@@ -4,6 +4,8 @@ A modern, mobile-friendly profile card with interactive social buttons, built wi
 
 ![My Profile Card](./preview.png)
 
+[![Live Demo](https://img.shields.io/badge/View_Live-Profile_Card-2ea44f?style=for-the-badge)](https://isaansari.github.io/Profile-Card/)
+
 ## Features 🌟
 - **Dynamic Like Button** ❤️  
   - Persistent like counter (saves with localStorage)
